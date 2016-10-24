@@ -14,11 +14,11 @@
 
 * At the meeting, the collective gives an orientation / introduction:
 
-    [] Intro to each member
+    - [ ] Intro to each member
 
-    [] Tour of space and rack (the short version! 5ish minutes)
+    - [ ] Tour of space and rack (the short version! 5ish minutes)
 
-    [] Explain current meeting structure
+    - [ ] Explain current meeting structure
 
 * Collective assigns member to serve as new member’s Liaison (a member of the Admin subcommittee for the coming month).
 
@@ -28,17 +28,17 @@
 
 * If yes, the new member’s Liaison:
 
-    [] sends them an email inviting that person to join. 
+    - [ ] sends them an email inviting that person to join. 
 
-    [] invites new member to Slack
+    - [ ] invites new member to Slack
 
-    [] invites new member to Google group
+    - [ ] invites new member to Google group
 
-    [] invites new member to join a subcommittee (maybe in observer role)
+    - [ ] invites new member to join a subcommittee (maybe in observer role)
 
-    [] Invites new member to join a transfer session (maybe in observer role)
+    - [ ] Invites new member to join a transfer session (maybe in observer role)
 
-    [] shares the workflow manual w/ the new member
+    - [ ] shares the workflow manual w/ the new member
 
 **After their second meeting, the Liaison:**
 
