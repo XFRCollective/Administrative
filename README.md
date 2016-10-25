@@ -3,3 +3,4 @@
 ### This repository contains administrative documentation outlining the strcture of xfr collective. 
 
 ####[New Member on-boarding documentation](https://github.com/XFRCollective/Administrative/blob/master/MembershipOnboardingInternalChecklist.md)
+#### [2016 Core Member Agreement](https://github.com/XFRCollective/Administrative/blob/master/2016_CoreMemberAgreement.md)
